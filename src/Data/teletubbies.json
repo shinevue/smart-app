@@ -1,0 +1,802 @@
+[
+  {
+    "name": "Tinky Winky",
+    "slug": "tinky-winky",
+    "image_url": "/images/profile/tinky-winky.webp",
+    "description": "Tinky Winky, (played by Dave Thompson (from 1997), and Simon Shelton (1997-2001, 2007, 2009), and voiced by Mark Heenehan (from 1997-2001), and in the original series and Jeremiah Krage (2015-present) in the new series) is the first Teletubby. He is the largest and oldest of the Teletubbies, being 10 feet tall.",
+    "traits": ["tallest", "oldest", "kind", "gentle"],
+    "loves": ["big hugs", "walking", "marching", "dancing", "falling over"]
+  },
+  {
+    "name": "Dipsy",
+    "slug": "dipsy",
+    "image_url": "/images/profile/dipsy.webp",
+    "description": "Dipsy is the second Teletubby with an antenna that refers to a dipstick because of his name. Dipsy's skin tone is slightly darker than the other Teletubbies, implying that he is black. He is jolly and likes talking to himself. He wears a white hat with black cow spots.",
+    "traits": ["stubborn", "sarcastic", "contemptuous", "contrarian"],
+    "loves": ["fun games", "wearing his hat"]
+  },
+  {
+    "name": "Laa-Laa",
+    "slug": "laa-laa",
+    "image_url": "/images/profile/laa-laa.webp",
+    "description": "Laa-Laa is the third Teletubby played by Nikky Smedley (from 1997 - 2003, 2007, 2009) in the original series and Rebecca Hyland (from 2015 - present) in the new series. She is yellow and has a curly antenna on her head. Her favourite thing is a giant orange ball.",
+    "traits": ["very girly", "silly", "cute", "cheerful"],
+    "loves": ["playing ball", "singing", "dancing"]
+  },
+  {
+    "name": "Po",
+    "slug": "po",
+    "image_url": "/images/profile/po.webp",
+    "description": "Po is the fourth and youngest Teletubby. She lives in Teletubbyland with the other Teletubbies.",
+    "traits": ["clever", "silly", "loves attention", "timid", "smart"],
+    "loves": ["riding her scooter", "audience interaction"]
+  },
+  {
+    "name": "Tinky Winky",
+    "slug": "tinky-winky",
+    "image_url": "/images/profile/tinky-winky.webp",
+    "description": "Tinky Winky, (played by Dave Thompson (from 1997), and Simon Shelton (1997-2001, 2007, 2009), and voiced by Mark Heenehan (from 1997-2001), and in the original series and Jeremiah Krage (2015-present) in the new series) is the first Teletubby. He is the largest and oldest of the Teletubbies, being 10 feet tall.",
+    "traits": ["tallest", "oldest", "kind", "gentle"],
+    "loves": ["big hugs", "walking", "marching", "dancing", "falling over"]
+  },
+  {
+    "name": "Dipsy",
+    "slug": "dipsy",
+    "image_url": "/images/profile/dipsy.webp",
+    "description": "Dipsy is the second Teletubby with an antenna that refers to a dipstick because of his name. Dipsy's skin tone is slightly darker than the other Teletubbies, implying that he is black. He is jolly and likes talking to himself. He wears a white hat with black cow spots.",
+    "traits": ["stubborn", "sarcastic", "contemptuous", "contrarian"],
+    "loves": ["fun games", "wearing his hat"]
+  },
+  {
+    "name": "Laa-Laa",
+    "slug": "laa-laa",
+    "image_url": "/images/profile/laa-laa.webp",
+    "description": "Laa-Laa is the third Teletubby played by Nikky Smedley (from 1997 - 2003, 2007, 2009) in the original series and Rebecca Hyland (from 2015 - present) in the new series. She is yellow and has a curly antenna on her head. Her favourite thing is a giant orange ball.",
+    "traits": ["very girly", "silly", "cute", "cheerful"],
+    "loves": ["playing ball", "singing", "dancing"]
+  },
+  {
+    "name": "Po",
+    "slug": "po",
+    "image_url": "/images/profile/po.webp",
+    "description": "Po is the fourth and youngest Teletubby. She lives in Teletubbyland with the other Teletubbies.",
+    "traits": ["clever", "silly", "loves attention", "timid", "smart"],
+    "loves": ["riding her scooter", "audience interaction"]
+  },
+  {
+    "name": "Tinky Winky",
+    "slug": "tinky-winky",
+    "image_url": "/images/profile/tinky-winky.webp",
+    "description": "Tinky Winky, (played by Dave Thompson (from 1997), and Simon Shelton (1997-2001, 2007, 2009), and voiced by Mark Heenehan (from 1997-2001), and in the original series and Jeremiah Krage (2015-present) in the new series) is the first Teletubby. He is the largest and oldest of the Teletubbies, being 10 feet tall.",
+    "traits": ["tallest", "oldest", "kind", "gentle"],
+    "loves": ["big hugs", "walking", "marching", "dancing", "falling over"]
+  },
+  {
+    "name": "Dipsy",
+    "slug": "dipsy",
+    "image_url": "/images/profile/dipsy.webp",
+    "description": "Dipsy is the second Teletubby with an antenna that refers to a dipstick because of his name. Dipsy's skin tone is slightly darker than the other Teletubbies, implying that he is black. He is jolly and likes talking to himself. He wears a white hat with black cow spots.",
+    "traits": ["stubborn", "sarcastic", "contemptuous", "contrarian"],
+    "loves": ["fun games", "wearing his hat"]
+  },
+  {
+    "name": "Laa-Laa",
+    "slug": "laa-laa",
+    "image_url": "/images/profile/laa-laa.webp",
+    "description": "Laa-Laa is the third Teletubby played by Nikky Smedley (from 1997 - 2003, 2007, 2009) in the original series and Rebecca Hyland (from 2015 - present) in the new series. She is yellow and has a curly antenna on her head. Her favourite thing is a giant orange ball.",
+    "traits": ["very girly", "silly", "cute", "cheerful"],
+    "loves": ["playing ball", "singing", "dancing"]
+  },
+  {
+    "name": "Po",
+    "slug": "po",
+    "image_url": "/images/profile/po.webp",
+    "description": "Po is the fourth and youngest Teletubby. She lives in Teletubbyland with the other Teletubbies.",
+    "traits": ["clever", "silly", "loves attention", "timid", "smart"],
+    "loves": ["riding her scooter", "audience interaction"]
+  },
+  {
+    "name": "Tinky Winky",
+    "slug": "tinky-winky",
+    "image_url": "/images/profile/tinky-winky.webp",
+    "description": "Tinky Winky, (played by Dave Thompson (from 1997), and Simon Shelton (1997-2001, 2007, 2009), and voiced by Mark Heenehan (from 1997-2001), and in the original series and Jeremiah Krage (2015-present) in the new series) is the first Teletubby. He is the largest and oldest of the Teletubbies, being 10 feet tall.",
+    "traits": ["tallest", "oldest", "kind", "gentle"],
+    "loves": ["big hugs", "walking", "marching", "dancing", "falling over"]
+  },
+  {
+    "name": "Dipsy",
+    "slug": "dipsy",
+    "image_url": "/images/profile/dipsy.webp",
+    "description": "Dipsy is the second Teletubby with an antenna that refers to a dipstick because of his name. Dipsy's skin tone is slightly darker than the other Teletubbies, implying that he is black. He is jolly and likes talking to himself. He wears a white hat with black cow spots.",
+    "traits": ["stubborn", "sarcastic", "contemptuous", "contrarian"],
+    "loves": ["fun games", "wearing his hat"]
+  },
+  {
+    "name": "Laa-Laa",
+    "slug": "laa-laa",
+    "image_url": "/images/profile/laa-laa.webp",
+    "description": "Laa-Laa is the third Teletubby played by Nikky Smedley (from 1997 - 2003, 2007, 2009) in the original series and Rebecca Hyland (from 2015 - present) in the new series. She is yellow and has a curly antenna on her head. Her favourite thing is a giant orange ball.",
+    "traits": ["very girly", "silly", "cute", "cheerful"],
+    "loves": ["playing ball", "singing", "dancing"]
+  },
+  {
+    "name": "Po",
+    "slug": "po",
+    "image_url": "/images/profile/po.webp",
+    "description": "Po is the fourth and youngest Teletubby. She lives in Teletubbyland with the other Teletubbies.",
+    "traits": ["clever", "silly", "loves attention", "timid", "smart"],
+    "loves": ["riding her scooter", "audience interaction"]
+  },
+  {
+    "name": "Tinky Winky",
+    "slug": "tinky-winky",
+    "image_url": "/images/profile/tinky-winky.webp",
+    "description": "Tinky Winky, (played by Dave Thompson (from 1997), and Simon Shelton (1997-2001, 2007, 2009), and voiced by Mark Heenehan (from 1997-2001), and in the original series and Jeremiah Krage (2015-present) in the new series) is the first Teletubby. He is the largest and oldest of the Teletubbies, being 10 feet tall.",
+    "traits": ["tallest", "oldest", "kind", "gentle"],
+    "loves": ["big hugs", "walking", "marching", "dancing", "falling over"]
+  },
+  {
+    "name": "Dipsy",
+    "slug": "dipsy",
+    "image_url": "/images/profile/dipsy.webp",
+    "description": "Dipsy is the second Teletubby with an antenna that refers to a dipstick because of his name. Dipsy's skin tone is slightly darker than the other Teletubbies, implying that he is black. He is jolly and likes talking to himself. He wears a white hat with black cow spots.",
+    "traits": ["stubborn", "sarcastic", "contemptuous", "contrarian"],
+    "loves": ["fun games", "wearing his hat"]
+  },
+  {
+    "name": "Laa-Laa",
+    "slug": "laa-laa",
+    "image_url": "/images/profile/laa-laa.webp",
+    "description": "Laa-Laa is the third Teletubby played by Nikky Smedley (from 1997 - 2003, 2007, 2009) in the original series and Rebecca Hyland (from 2015 - present) in the new series. She is yellow and has a curly antenna on her head. Her favourite thing is a giant orange ball.",
+    "traits": ["very girly", "silly", "cute", "cheerful"],
+    "loves": ["playing ball", "singing", "dancing"]
+  },
+  {
+    "name": "Po",
+    "slug": "po",
+    "image_url": "/images/profile/po.webp",
+    "description": "Po is the fourth and youngest Teletubby. She lives in Teletubbyland with the other Teletubbies.",
+    "traits": ["clever", "silly", "loves attention", "timid", "smart"],
+    "loves": ["riding her scooter", "audience interaction"]
+  },
+  {
+    "name": "Tinky Winky",
+    "slug": "tinky-winky",
+    "image_url": "/images/profile/tinky-winky.webp",
+    "description": "Tinky Winky, (played by Dave Thompson (from 1997), and Simon Shelton (1997-2001, 2007, 2009), and voiced by Mark Heenehan (from 1997-2001), and in the original series and Jeremiah Krage (2015-present) in the new series) is the first Teletubby. He is the largest and oldest of the Teletubbies, being 10 feet tall.",
+    "traits": ["tallest", "oldest", "kind", "gentle"],
+    "loves": ["big hugs", "walking", "marching", "dancing", "falling over"]
+  },
+  {
+    "name": "Dipsy",
+    "slug": "dipsy",
+    "image_url": "/images/profile/dipsy.webp",
+    "description": "Dipsy is the second Teletubby with an antenna that refers to a dipstick because of his name. Dipsy's skin tone is slightly darker than the other Teletubbies, implying that he is black. He is jolly and likes talking to himself. He wears a white hat with black cow spots.",
+    "traits": ["stubborn", "sarcastic", "contemptuous", "contrarian"],
+    "loves": ["fun games", "wearing his hat"]
+  },
+  {
+    "name": "Laa-Laa",
+    "slug": "laa-laa",
+    "image_url": "/images/profile/laa-laa.webp",
+    "description": "Laa-Laa is the third Teletubby played by Nikky Smedley (from 1997 - 2003, 2007, 2009) in the original series and Rebecca Hyland (from 2015 - present) in the new series. She is yellow and has a curly antenna on her head. Her favourite thing is a giant orange ball.",
+    "traits": ["very girly", "silly", "cute", "cheerful"],
+    "loves": ["playing ball", "singing", "dancing"]
+  },
+  {
+    "name": "Po",
+    "slug": "po",
+    "image_url": "/images/profile/po.webp",
+    "description": "Po is the fourth and youngest Teletubby. She lives in Teletubbyland with the other Teletubbies.",
+    "traits": ["clever", "silly", "loves attention", "timid", "smart"],
+    "loves": ["riding her scooter", "audience interaction"]
+  },
+  {
+    "name": "Tinky Winky",
+    "slug": "tinky-winky",
+    "image_url": "/images/profile/tinky-winky.webp",
+    "description": "Tinky Winky, (played by Dave Thompson (from 1997), and Simon Shelton (1997-2001, 2007, 2009), and voiced by Mark Heenehan (from 1997-2001), and in the original series and Jeremiah Krage (2015-present) in the new series) is the first Teletubby. He is the largest and oldest of the Teletubbies, being 10 feet tall.",
+    "traits": ["tallest", "oldest", "kind", "gentle"],
+    "loves": ["big hugs", "walking", "marching", "dancing", "falling over"]
+  },
+  {
+    "name": "Dipsy",
+    "slug": "dipsy",
+    "image_url": "/images/profile/dipsy.webp",
+    "description": "Dipsy is the second Teletubby with an antenna that refers to a dipstick because of his name. Dipsy's skin tone is slightly darker than the other Teletubbies, implying that he is black. He is jolly and likes talking to himself. He wears a white hat with black cow spots.",
+    "traits": ["stubborn", "sarcastic", "contemptuous", "contrarian"],
+    "loves": ["fun games", "wearing his hat"]
+  },
+  {
+    "name": "Laa-Laa",
+    "slug": "laa-laa",
+    "image_url": "/images/profile/laa-laa.webp",
+    "description": "Laa-Laa is the third Teletubby played by Nikky Smedley (from 1997 - 2003, 2007, 2009) in the original series and Rebecca Hyland (from 2015 - present) in the new series. She is yellow and has a curly antenna on her head. Her favourite thing is a giant orange ball.",
+    "traits": ["very girly", "silly", "cute", "cheerful"],
+    "loves": ["playing ball", "singing", "dancing"]
+  },
+  {
+    "name": "Po",
+    "slug": "po",
+    "image_url": "/images/profile/po.webp",
+    "description": "Po is the fourth and youngest Teletubby. She lives in Teletubbyland with the other Teletubbies.",
+    "traits": ["clever", "silly", "loves attention", "timid", "smart"],
+    "loves": ["riding her scooter", "audience interaction"]
+  },
+  {
+    "name": "Tinky Winky",
+    "slug": "tinky-winky",
+    "image_url": "/images/profile/tinky-winky.webp",
+    "description": "Tinky Winky, (played by Dave Thompson (from 1997), and Simon Shelton (1997-2001, 2007, 2009), and voiced by Mark Heenehan (from 1997-2001), and in the original series and Jeremiah Krage (2015-present) in the new series) is the first Teletubby. He is the largest and oldest of the Teletubbies, being 10 feet tall.",
+    "traits": ["tallest", "oldest", "kind", "gentle"],
+    "loves": ["big hugs", "walking", "marching", "dancing", "falling over"]
+  },
+  {
+    "name": "Dipsy",
+    "slug": "dipsy",
+    "image_url": "/images/profile/dipsy.webp",
+    "description": "Dipsy is the second Teletubby with an antenna that refers to a dipstick because of his name. Dipsy's skin tone is slightly darker than the other Teletubbies, implying that he is black. He is jolly and likes talking to himself. He wears a white hat with black cow spots.",
+    "traits": ["stubborn", "sarcastic", "contemptuous", "contrarian"],
+    "loves": ["fun games", "wearing his hat"]
+  },
+  {
+    "name": "Laa-Laa",
+    "slug": "laa-laa",
+    "image_url": "/images/profile/laa-laa.webp",
+    "description": "Laa-Laa is the third Teletubby played by Nikky Smedley (from 1997 - 2003, 2007, 2009) in the original series and Rebecca Hyland (from 2015 - present) in the new series. She is yellow and has a curly antenna on her head. Her favourite thing is a giant orange ball.",
+    "traits": ["very girly", "silly", "cute", "cheerful"],
+    "loves": ["playing ball", "singing", "dancing"]
+  },
+  {
+    "name": "Po",
+    "slug": "po",
+    "image_url": "/images/profile/po.webp",
+    "description": "Po is the fourth and youngest Teletubby. She lives in Teletubbyland with the other Teletubbies.",
+    "traits": ["clever", "silly", "loves attention", "timid", "smart"],
+    "loves": ["riding her scooter", "audience interaction"]
+  },
+  {
+    "name": "Tinky Winky",
+    "slug": "tinky-winky",
+    "image_url": "/images/profile/tinky-winky.webp",
+    "description": "Tinky Winky, (played by Dave Thompson (from 1997), and Simon Shelton (1997-2001, 2007, 2009), and voiced by Mark Heenehan (from 1997-2001), and in the original series and Jeremiah Krage (2015-present) in the new series) is the first Teletubby. He is the largest and oldest of the Teletubbies, being 10 feet tall.",
+    "traits": ["tallest", "oldest", "kind", "gentle"],
+    "loves": ["big hugs", "walking", "marching", "dancing", "falling over"]
+  },
+  {
+    "name": "Dipsy",
+    "slug": "dipsy",
+    "image_url": "/images/profile/dipsy.webp",
+    "description": "Dipsy is the second Teletubby with an antenna that refers to a dipstick because of his name. Dipsy's skin tone is slightly darker than the other Teletubbies, implying that he is black. He is jolly and likes talking to himself. He wears a white hat with black cow spots.",
+    "traits": ["stubborn", "sarcastic", "contemptuous", "contrarian"],
+    "loves": ["fun games", "wearing his hat"]
+  },
+  {
+    "name": "Laa-Laa",
+    "slug": "laa-laa",
+    "image_url": "/images/profile/laa-laa.webp",
+    "description": "Laa-Laa is the third Teletubby played by Nikky Smedley (from 1997 - 2003, 2007, 2009) in the original series and Rebecca Hyland (from 2015 - present) in the new series. She is yellow and has a curly antenna on her head. Her favourite thing is a giant orange ball.",
+    "traits": ["very girly", "silly", "cute", "cheerful"],
+    "loves": ["playing ball", "singing", "dancing"]
+  },
+  {
+    "name": "Po",
+    "slug": "po",
+    "image_url": "/images/profile/po.webp",
+    "description": "Po is the fourth and youngest Teletubby. She lives in Teletubbyland with the other Teletubbies.",
+    "traits": ["clever", "silly", "loves attention", "timid", "smart"],
+    "loves": ["riding her scooter", "audience interaction"]
+  },
+  {
+    "name": "Tinky Winky",
+    "slug": "tinky-winky",
+    "image_url": "/images/profile/tinky-winky.webp",
+    "description": "Tinky Winky, (played by Dave Thompson (from 1997), and Simon Shelton (1997-2001, 2007, 2009), and voiced by Mark Heenehan (from 1997-2001), and in the original series and Jeremiah Krage (2015-present) in the new series) is the first Teletubby. He is the largest and oldest of the Teletubbies, being 10 feet tall.",
+    "traits": ["tallest", "oldest", "kind", "gentle"],
+    "loves": ["big hugs", "walking", "marching", "dancing", "falling over"]
+  },
+  {
+    "name": "Dipsy",
+    "slug": "dipsy",
+    "image_url": "/images/profile/dipsy.webp",
+    "description": "Dipsy is the second Teletubby with an antenna that refers to a dipstick because of his name. Dipsy's skin tone is slightly darker than the other Teletubbies, implying that he is black. He is jolly and likes talking to himself. He wears a white hat with black cow spots.",
+    "traits": ["stubborn", "sarcastic", "contemptuous", "contrarian"],
+    "loves": ["fun games", "wearing his hat"]
+  },
+  {
+    "name": "Laa-Laa",
+    "slug": "laa-laa",
+    "image_url": "/images/profile/laa-laa.webp",
+    "description": "Laa-Laa is the third Teletubby played by Nikky Smedley (from 1997 - 2003, 2007, 2009) in the original series and Rebecca Hyland (from 2015 - present) in the new series. She is yellow and has a curly antenna on her head. Her favourite thing is a giant orange ball.",
+    "traits": ["very girly", "silly", "cute", "cheerful"],
+    "loves": ["playing ball", "singing", "dancing"]
+  },
+  {
+    "name": "Po",
+    "slug": "po",
+    "image_url": "/images/profile/po.webp",
+    "description": "Po is the fourth and youngest Teletubby. She lives in Teletubbyland with the other Teletubbies.",
+    "traits": ["clever", "silly", "loves attention", "timid", "smart"],
+    "loves": ["riding her scooter", "audience interaction"]
+  },
+  {
+    "name": "Tinky Winky",
+    "slug": "tinky-winky",
+    "image_url": "/images/profile/tinky-winky.webp",
+    "description": "Tinky Winky, (played by Dave Thompson (from 1997), and Simon Shelton (1997-2001, 2007, 2009), and voiced by Mark Heenehan (from 1997-2001), and in the original series and Jeremiah Krage (2015-present) in the new series) is the first Teletubby. He is the largest and oldest of the Teletubbies, being 10 feet tall.",
+    "traits": ["tallest", "oldest", "kind", "gentle"],
+    "loves": ["big hugs", "walking", "marching", "dancing", "falling over"]
+  },
+  {
+    "name": "Dipsy",
+    "slug": "dipsy",
+    "image_url": "/images/profile/dipsy.webp",
+    "description": "Dipsy is the second Teletubby with an antenna that refers to a dipstick because of his name. Dipsy's skin tone is slightly darker than the other Teletubbies, implying that he is black. He is jolly and likes talking to himself. He wears a white hat with black cow spots.",
+    "traits": ["stubborn", "sarcastic", "contemptuous", "contrarian"],
+    "loves": ["fun games", "wearing his hat"]
+  },
+  {
+    "name": "Laa-Laa",
+    "slug": "laa-laa",
+    "image_url": "/images/profile/laa-laa.webp",
+    "description": "Laa-Laa is the third Teletubby played by Nikky Smedley (from 1997 - 2003, 2007, 2009) in the original series and Rebecca Hyland (from 2015 - present) in the new series. She is yellow and has a curly antenna on her head. Her favourite thing is a giant orange ball.",
+    "traits": ["very girly", "silly", "cute", "cheerful"],
+    "loves": ["playing ball", "singing", "dancing"]
+  },
+  {
+    "name": "Po",
+    "slug": "po",
+    "image_url": "/images/profile/po.webp",
+    "description": "Po is the fourth and youngest Teletubby. She lives in Teletubbyland with the other Teletubbies.",
+    "traits": ["clever", "silly", "loves attention", "timid", "smart"],
+    "loves": ["riding her scooter", "audience interaction"]
+  },
+  {
+    "name": "Tinky Winky",
+    "slug": "tinky-winky",
+    "image_url": "/images/profile/tinky-winky.webp",
+    "description": "Tinky Winky, (played by Dave Thompson (from 1997), and Simon Shelton (1997-2001, 2007, 2009), and voiced by Mark Heenehan (from 1997-2001), and in the original series and Jeremiah Krage (2015-present) in the new series) is the first Teletubby. He is the largest and oldest of the Teletubbies, being 10 feet tall.",
+    "traits": ["tallest", "oldest", "kind", "gentle"],
+    "loves": ["big hugs", "walking", "marching", "dancing", "falling over"]
+  },
+  {
+    "name": "Dipsy",
+    "slug": "dipsy",
+    "image_url": "/images/profile/dipsy.webp",
+    "description": "Dipsy is the second Teletubby with an antenna that refers to a dipstick because of his name. Dipsy's skin tone is slightly darker than the other Teletubbies, implying that he is black. He is jolly and likes talking to himself. He wears a white hat with black cow spots.",
+    "traits": ["stubborn", "sarcastic", "contemptuous", "contrarian"],
+    "loves": ["fun games", "wearing his hat"]
+  },
+  {
+    "name": "Laa-Laa",
+    "slug": "laa-laa",
+    "image_url": "/images/profile/laa-laa.webp",
+    "description": "Laa-Laa is the third Teletubby played by Nikky Smedley (from 1997 - 2003, 2007, 2009) in the original series and Rebecca Hyland (from 2015 - present) in the new series. She is yellow and has a curly antenna on her head. Her favourite thing is a giant orange ball.",
+    "traits": ["very girly", "silly", "cute", "cheerful"],
+    "loves": ["playing ball", "singing", "dancing"]
+  },
+  {
+    "name": "Po",
+    "slug": "po",
+    "image_url": "/images/profile/po.webp",
+    "description": "Po is the fourth and youngest Teletubby. She lives in Teletubbyland with the other Teletubbies.",
+    "traits": ["clever", "silly", "loves attention", "timid", "smart"],
+    "loves": ["riding her scooter", "audience interaction"]
+  },
+  {
+    "name": "Tinky Winky",
+    "slug": "tinky-winky",
+    "image_url": "/images/profile/tinky-winky.webp",
+    "description": "Tinky Winky, (played by Dave Thompson (from 1997), and Simon Shelton (1997-2001, 2007, 2009), and voiced by Mark Heenehan (from 1997-2001), and in the original series and Jeremiah Krage (2015-present) in the new series) is the first Teletubby. He is the largest and oldest of the Teletubbies, being 10 feet tall.",
+    "traits": ["tallest", "oldest", "kind", "gentle"],
+    "loves": ["big hugs", "walking", "marching", "dancing", "falling over"]
+  },
+  {
+    "name": "Dipsy",
+    "slug": "dipsy",
+    "image_url": "/images/profile/dipsy.webp",
+    "description": "Dipsy is the second Teletubby with an antenna that refers to a dipstick because of his name. Dipsy's skin tone is slightly darker than the other Teletubbies, implying that he is black. He is jolly and likes talking to himself. He wears a white hat with black cow spots.",
+    "traits": ["stubborn", "sarcastic", "contemptuous", "contrarian"],
+    "loves": ["fun games", "wearing his hat"]
+  },
+  {
+    "name": "Laa-Laa",
+    "slug": "laa-laa",
+    "image_url": "/images/profile/laa-laa.webp",
+    "description": "Laa-Laa is the third Teletubby played by Nikky Smedley (from 1997 - 2003, 2007, 2009) in the original series and Rebecca Hyland (from 2015 - present) in the new series. She is yellow and has a curly antenna on her head. Her favourite thing is a giant orange ball.",
+    "traits": ["very girly", "silly", "cute", "cheerful"],
+    "loves": ["playing ball", "singing", "dancing"]
+  },
+  {
+    "name": "Po",
+    "slug": "po",
+    "image_url": "/images/profile/po.webp",
+    "description": "Po is the fourth and youngest Teletubby. She lives in Teletubbyland with the other Teletubbies.",
+    "traits": ["clever", "silly", "loves attention", "timid", "smart"],
+    "loves": ["riding her scooter", "audience interaction"]
+  },
+  {
+    "name": "Tinky Winky",
+    "slug": "tinky-winky",
+    "image_url": "/images/profile/tinky-winky.webp",
+    "description": "Tinky Winky, (played by Dave Thompson (from 1997), and Simon Shelton (1997-2001, 2007, 2009), and voiced by Mark Heenehan (from 1997-2001), and in the original series and Jeremiah Krage (2015-present) in the new series) is the first Teletubby. He is the largest and oldest of the Teletubbies, being 10 feet tall.",
+    "traits": ["tallest", "oldest", "kind", "gentle"],
+    "loves": ["big hugs", "walking", "marching", "dancing", "falling over"]
+  },
+  {
+    "name": "Dipsy",
+    "slug": "dipsy",
+    "image_url": "/images/profile/dipsy.webp",
+    "description": "Dipsy is the second Teletubby with an antenna that refers to a dipstick because of his name. Dipsy's skin tone is slightly darker than the other Teletubbies, implying that he is black. He is jolly and likes talking to himself. He wears a white hat with black cow spots.",
+    "traits": ["stubborn", "sarcastic", "contemptuous", "contrarian"],
+    "loves": ["fun games", "wearing his hat"]
+  },
+  {
+    "name": "Laa-Laa",
+    "slug": "laa-laa",
+    "image_url": "/images/profile/laa-laa.webp",
+    "description": "Laa-Laa is the third Teletubby played by Nikky Smedley (from 1997 - 2003, 2007, 2009) in the original series and Rebecca Hyland (from 2015 - present) in the new series. She is yellow and has a curly antenna on her head. Her favourite thing is a giant orange ball.",
+    "traits": ["very girly", "silly", "cute", "cheerful"],
+    "loves": ["playing ball", "singing", "dancing"]
+  },
+  {
+    "name": "Po",
+    "slug": "po",
+    "image_url": "/images/profile/po.webp",
+    "description": "Po is the fourth and youngest Teletubby. She lives in Teletubbyland with the other Teletubbies.",
+    "traits": ["clever", "silly", "loves attention", "timid", "smart"],
+    "loves": ["riding her scooter", "audience interaction"]
+  },
+  {
+    "name": "Tinky Winky",
+    "slug": "tinky-winky",
+    "image_url": "/images/profile/tinky-winky.webp",
+    "description": "Tinky Winky, (played by Dave Thompson (from 1997), and Simon Shelton (1997-2001, 2007, 2009), and voiced by Mark Heenehan (from 1997-2001), and in the original series and Jeremiah Krage (2015-present) in the new series) is the first Teletubby. He is the largest and oldest of the Teletubbies, being 10 feet tall.",
+    "traits": ["tallest", "oldest", "kind", "gentle"],
+    "loves": ["big hugs", "walking", "marching", "dancing", "falling over"]
+  },
+  {
+    "name": "Dipsy",
+    "slug": "dipsy",
+    "image_url": "/images/profile/dipsy.webp",
+    "description": "Dipsy is the second Teletubby with an antenna that refers to a dipstick because of his name. Dipsy's skin tone is slightly darker than the other Teletubbies, implying that he is black. He is jolly and likes talking to himself. He wears a white hat with black cow spots.",
+    "traits": ["stubborn", "sarcastic", "contemptuous", "contrarian"],
+    "loves": ["fun games", "wearing his hat"]
+  },
+  {
+    "name": "Laa-Laa",
+    "slug": "laa-laa",
+    "image_url": "/images/profile/laa-laa.webp",
+    "description": "Laa-Laa is the third Teletubby played by Nikky Smedley (from 1997 - 2003, 2007, 2009) in the original series and Rebecca Hyland (from 2015 - present) in the new series. She is yellow and has a curly antenna on her head. Her favourite thing is a giant orange ball.",
+    "traits": ["very girly", "silly", "cute", "cheerful"],
+    "loves": ["playing ball", "singing", "dancing"]
+  },
+  {
+    "name": "Po",
+    "slug": "po",
+    "image_url": "/images/profile/po.webp",
+    "description": "Po is the fourth and youngest Teletubby. She lives in Teletubbyland with the other Teletubbies.",
+    "traits": ["clever", "silly", "loves attention", "timid", "smart"],
+    "loves": ["riding her scooter", "audience interaction"]
+  },
+  {
+    "name": "Tinky Winky",
+    "slug": "tinky-winky",
+    "image_url": "/images/profile/tinky-winky.webp",
+    "description": "Tinky Winky, (played by Dave Thompson (from 1997), and Simon Shelton (1997-2001, 2007, 2009), and voiced by Mark Heenehan (from 1997-2001), and in the original series and Jeremiah Krage (2015-present) in the new series) is the first Teletubby. He is the largest and oldest of the Teletubbies, being 10 feet tall.",
+    "traits": ["tallest", "oldest", "kind", "gentle"],
+    "loves": ["big hugs", "walking", "marching", "dancing", "falling over"]
+  },
+  {
+    "name": "Dipsy",
+    "slug": "dipsy",
+    "image_url": "/images/profile/dipsy.webp",
+    "description": "Dipsy is the second Teletubby with an antenna that refers to a dipstick because of his name. Dipsy's skin tone is slightly darker than the other Teletubbies, implying that he is black. He is jolly and likes talking to himself. He wears a white hat with black cow spots.",
+    "traits": ["stubborn", "sarcastic", "contemptuous", "contrarian"],
+    "loves": ["fun games", "wearing his hat"]
+  },
+  {
+    "name": "Laa-Laa",
+    "slug": "laa-laa",
+    "image_url": "/images/profile/laa-laa.webp",
+    "description": "Laa-Laa is the third Teletubby played by Nikky Smedley (from 1997 - 2003, 2007, 2009) in the original series and Rebecca Hyland (from 2015 - present) in the new series. She is yellow and has a curly antenna on her head. Her favourite thing is a giant orange ball.",
+    "traits": ["very girly", "silly", "cute", "cheerful"],
+    "loves": ["playing ball", "singing", "dancing"]
+  },
+  {
+    "name": "Po",
+    "slug": "po",
+    "image_url": "/images/profile/po.webp",
+    "description": "Po is the fourth and youngest Teletubby. She lives in Teletubbyland with the other Teletubbies.",
+    "traits": ["clever", "silly", "loves attention", "timid", "smart"],
+    "loves": ["riding her scooter", "audience interaction"]
+  },
+  {
+    "name": "Tinky Winky",
+    "slug": "tinky-winky",
+    "image_url": "/images/profile/tinky-winky.webp",
+    "description": "Tinky Winky, (played by Dave Thompson (from 1997), and Simon Shelton (1997-2001, 2007, 2009), and voiced by Mark Heenehan (from 1997-2001), and in the original series and Jeremiah Krage (2015-present) in the new series) is the first Teletubby. He is the largest and oldest of the Teletubbies, being 10 feet tall.",
+    "traits": ["tallest", "oldest", "kind", "gentle"],
+    "loves": ["big hugs", "walking", "marching", "dancing", "falling over"]
+  },
+  {
+    "name": "Dipsy",
+    "slug": "dipsy",
+    "image_url": "/images/profile/dipsy.webp",
+    "description": "Dipsy is the second Teletubby with an antenna that refers to a dipstick because of his name. Dipsy's skin tone is slightly darker than the other Teletubbies, implying that he is black. He is jolly and likes talking to himself. He wears a white hat with black cow spots.",
+    "traits": ["stubborn", "sarcastic", "contemptuous", "contrarian"],
+    "loves": ["fun games", "wearing his hat"]
+  },
+  {
+    "name": "Laa-Laa",
+    "slug": "laa-laa",
+    "image_url": "/images/profile/laa-laa.webp",
+    "description": "Laa-Laa is the third Teletubby played by Nikky Smedley (from 1997 - 2003, 2007, 2009) in the original series and Rebecca Hyland (from 2015 - present) in the new series. She is yellow and has a curly antenna on her head. Her favourite thing is a giant orange ball.",
+    "traits": ["very girly", "silly", "cute", "cheerful"],
+    "loves": ["playing ball", "singing", "dancing"]
+  },
+  {
+    "name": "Po",
+    "slug": "po",
+    "image_url": "/images/profile/po.webp",
+    "description": "Po is the fourth and youngest Teletubby. She lives in Teletubbyland with the other Teletubbies.",
+    "traits": ["clever", "silly", "loves attention", "timid", "smart"],
+    "loves": ["riding her scooter", "audience interaction"]
+  },
+  {
+    "name": "Tinky Winky",
+    "slug": "tinky-winky",
+    "image_url": "/images/profile/tinky-winky.webp",
+    "description": "Tinky Winky, (played by Dave Thompson (from 1997), and Simon Shelton (1997-2001, 2007, 2009), and voiced by Mark Heenehan (from 1997-2001), and in the original series and Jeremiah Krage (2015-present) in the new series) is the first Teletubby. He is the largest and oldest of the Teletubbies, being 10 feet tall.",
+    "traits": ["tallest", "oldest", "kind", "gentle"],
+    "loves": ["big hugs", "walking", "marching", "dancing", "falling over"]
+  },
+  {
+    "name": "Dipsy",
+    "slug": "dipsy",
+    "image_url": "/images/profile/dipsy.webp",
+    "description": "Dipsy is the second Teletubby with an antenna that refers to a dipstick because of his name. Dipsy's skin tone is slightly darker than the other Teletubbies, implying that he is black. He is jolly and likes talking to himself. He wears a white hat with black cow spots.",
+    "traits": ["stubborn", "sarcastic", "contemptuous", "contrarian"],
+    "loves": ["fun games", "wearing his hat"]
+  },
+  {
+    "name": "Laa-Laa",
+    "slug": "laa-laa",
+    "image_url": "/images/profile/laa-laa.webp",
+    "description": "Laa-Laa is the third Teletubby played by Nikky Smedley (from 1997 - 2003, 2007, 2009) in the original series and Rebecca Hyland (from 2015 - present) in the new series. She is yellow and has a curly antenna on her head. Her favourite thing is a giant orange ball.",
+    "traits": ["very girly", "silly", "cute", "cheerful"],
+    "loves": ["playing ball", "singing", "dancing"]
+  },
+  {
+    "name": "Po",
+    "slug": "po",
+    "image_url": "/images/profile/po.webp",
+    "description": "Po is the fourth and youngest Teletubby. She lives in Teletubbyland with the other Teletubbies.",
+    "traits": ["clever", "silly", "loves attention", "timid", "smart"],
+    "loves": ["riding her scooter", "audience interaction"]
+  },
+  {
+    "name": "Tinky Winky",
+    "slug": "tinky-winky",
+    "image_url": "/images/profile/tinky-winky.webp",
+    "description": "Tinky Winky, (played by Dave Thompson (from 1997), and Simon Shelton (1997-2001, 2007, 2009), and voiced by Mark Heenehan (from 1997-2001), and in the original series and Jeremiah Krage (2015-present) in the new series) is the first Teletubby. He is the largest and oldest of the Teletubbies, being 10 feet tall.",
+    "traits": ["tallest", "oldest", "kind", "gentle"],
+    "loves": ["big hugs", "walking", "marching", "dancing", "falling over"]
+  },
+  {
+    "name": "Dipsy",
+    "slug": "dipsy",
+    "image_url": "/images/profile/dipsy.webp",
+    "description": "Dipsy is the second Teletubby with an antenna that refers to a dipstick because of his name. Dipsy's skin tone is slightly darker than the other Teletubbies, implying that he is black. He is jolly and likes talking to himself. He wears a white hat with black cow spots.",
+    "traits": ["stubborn", "sarcastic", "contemptuous", "contrarian"],
+    "loves": ["fun games", "wearing his hat"]
+  },
+  {
+    "name": "Laa-Laa",
+    "slug": "laa-laa",
+    "image_url": "/images/profile/laa-laa.webp",
+    "description": "Laa-Laa is the third Teletubby played by Nikky Smedley (from 1997 - 2003, 2007, 2009) in the original series and Rebecca Hyland (from 2015 - present) in the new series. She is yellow and has a curly antenna on her head. Her favourite thing is a giant orange ball.",
+    "traits": ["very girly", "silly", "cute", "cheerful"],
+    "loves": ["playing ball", "singing", "dancing"]
+  },
+  {
+    "name": "Po",
+    "slug": "po",
+    "image_url": "/images/profile/po.webp",
+    "description": "Po is the fourth and youngest Teletubby. She lives in Teletubbyland with the other Teletubbies.",
+    "traits": ["clever", "silly", "loves attention", "timid", "smart"],
+    "loves": ["riding her scooter", "audience interaction"]
+  },
+  {
+    "name": "Tinky Winky",
+    "slug": "tinky-winky",
+    "image_url": "/images/profile/tinky-winky.webp",
+    "description": "Tinky Winky, (played by Dave Thompson (from 1997), and Simon Shelton (1997-2001, 2007, 2009), and voiced by Mark Heenehan (from 1997-2001), and in the original series and Jeremiah Krage (2015-present) in the new series) is the first Teletubby. He is the largest and oldest of the Teletubbies, being 10 feet tall.",
+    "traits": ["tallest", "oldest", "kind", "gentle"],
+    "loves": ["big hugs", "walking", "marching", "dancing", "falling over"]
+  },
+  {
+    "name": "Dipsy",
+    "slug": "dipsy",
+    "image_url": "/images/profile/dipsy.webp",
+    "description": "Dipsy is the second Teletubby with an antenna that refers to a dipstick because of his name. Dipsy's skin tone is slightly darker than the other Teletubbies, implying that he is black. He is jolly and likes talking to himself. He wears a white hat with black cow spots.",
+    "traits": ["stubborn", "sarcastic", "contemptuous", "contrarian"],
+    "loves": ["fun games", "wearing his hat"]
+  },
+  {
+    "name": "Laa-Laa",
+    "slug": "laa-laa",
+    "image_url": "/images/profile/laa-laa.webp",
+    "description": "Laa-Laa is the third Teletubby played by Nikky Smedley (from 1997 - 2003, 2007, 2009) in the original series and Rebecca Hyland (from 2015 - present) in the new series. She is yellow and has a curly antenna on her head. Her favourite thing is a giant orange ball.",
+    "traits": ["very girly", "silly", "cute", "cheerful"],
+    "loves": ["playing ball", "singing", "dancing"]
+  },
+  {
+    "name": "Po",
+    "slug": "po",
+    "image_url": "/images/profile/po.webp",
+    "description": "Po is the fourth and youngest Teletubby. She lives in Teletubbyland with the other Teletubbies.",
+    "traits": ["clever", "silly", "loves attention", "timid", "smart"],
+    "loves": ["riding her scooter", "audience interaction"]
+  },
+  {
+    "name": "Tinky Winky",
+    "slug": "tinky-winky",
+    "image_url": "/images/profile/tinky-winky.webp",
+    "description": "Tinky Winky, (played by Dave Thompson (from 1997), and Simon Shelton (1997-2001, 2007, 2009), and voiced by Mark Heenehan (from 1997-2001), and in the original series and Jeremiah Krage (2015-present) in the new series) is the first Teletubby. He is the largest and oldest of the Teletubbies, being 10 feet tall.",
+    "traits": ["tallest", "oldest", "kind", "gentle"],
+    "loves": ["big hugs", "walking", "marching", "dancing", "falling over"]
+  },
+  {
+    "name": "Dipsy",
+    "slug": "dipsy",
+    "image_url": "/images/profile/dipsy.webp",
+    "description": "Dipsy is the second Teletubby with an antenna that refers to a dipstick because of his name. Dipsy's skin tone is slightly darker than the other Teletubbies, implying that he is black. He is jolly and likes talking to himself. He wears a white hat with black cow spots.",
+    "traits": ["stubborn", "sarcastic", "contemptuous", "contrarian"],
+    "loves": ["fun games", "wearing his hat"]
+  },
+  {
+    "name": "Laa-Laa",
+    "slug": "laa-laa",
+    "image_url": "/images/profile/laa-laa.webp",
+    "description": "Laa-Laa is the third Teletubby played by Nikky Smedley (from 1997 - 2003, 2007, 2009) in the original series and Rebecca Hyland (from 2015 - present) in the new series. She is yellow and has a curly antenna on her head. Her favourite thing is a giant orange ball.",
+    "traits": ["very girly", "silly", "cute", "cheerful"],
+    "loves": ["playing ball", "singing", "dancing"]
+  },
+  {
+    "name": "Po",
+    "slug": "po",
+    "image_url": "/images/profile/po.webp",
+    "description": "Po is the fourth and youngest Teletubby. She lives in Teletubbyland with the other Teletubbies.",
+    "traits": ["clever", "silly", "loves attention", "timid", "smart"],
+    "loves": ["riding her scooter", "audience interaction"]
+  },
+  {
+    "name": "Tinky Winky",
+    "slug": "tinky-winky",
+    "image_url": "/images/profile/tinky-winky.webp",
+    "description": "Tinky Winky, (played by Dave Thompson (from 1997), and Simon Shelton (1997-2001, 2007, 2009), and voiced by Mark Heenehan (from 1997-2001), and in the original series and Jeremiah Krage (2015-present) in the new series) is the first Teletubby. He is the largest and oldest of the Teletubbies, being 10 feet tall.",
+    "traits": ["tallest", "oldest", "kind", "gentle"],
+    "loves": ["big hugs", "walking", "marching", "dancing", "falling over"]
+  },
+  {
+    "name": "Dipsy",
+    "slug": "dipsy",
+    "image_url": "/images/profile/dipsy.webp",
+    "description": "Dipsy is the second Teletubby with an antenna that refers to a dipstick because of his name. Dipsy's skin tone is slightly darker than the other Teletubbies, implying that he is black. He is jolly and likes talking to himself. He wears a white hat with black cow spots.",
+    "traits": ["stubborn", "sarcastic", "contemptuous", "contrarian"],
+    "loves": ["fun games", "wearing his hat"]
+  },
+  {
+    "name": "Laa-Laa",
+    "slug": "laa-laa",
+    "image_url": "/images/profile/laa-laa.webp",
+    "description": "Laa-Laa is the third Teletubby played by Nikky Smedley (from 1997 - 2003, 2007, 2009) in the original series and Rebecca Hyland (from 2015 - present) in the new series. She is yellow and has a curly antenna on her head. Her favourite thing is a giant orange ball.",
+    "traits": ["very girly", "silly", "cute", "cheerful"],
+    "loves": ["playing ball", "singing", "dancing"]
+  },
+  {
+    "name": "Po",
+    "slug": "po",
+    "image_url": "/images/profile/po.webp",
+    "description": "Po is the fourth and youngest Teletubby. She lives in Teletubbyland with the other Teletubbies.",
+    "traits": ["clever", "silly", "loves attention", "timid", "smart"],
+    "loves": ["riding her scooter", "audience interaction"]
+  },
+  {
+    "name": "Tinky Winky",
+    "slug": "tinky-winky",
+    "image_url": "/images/profile/tinky-winky.webp",
+    "description": "Tinky Winky, (played by Dave Thompson (from 1997), and Simon Shelton (1997-2001, 2007, 2009), and voiced by Mark Heenehan (from 1997-2001), and in the original series and Jeremiah Krage (2015-present) in the new series) is the first Teletubby. He is the largest and oldest of the Teletubbies, being 10 feet tall.",
+    "traits": ["tallest", "oldest", "kind", "gentle"],
+    "loves": ["big hugs", "walking", "marching", "dancing", "falling over"]
+  },
+  {
+    "name": "Dipsy",
+    "slug": "dipsy",
+    "image_url": "/images/profile/dipsy.webp",
+    "description": "Dipsy is the second Teletubby with an antenna that refers to a dipstick because of his name. Dipsy's skin tone is slightly darker than the other Teletubbies, implying that he is black. He is jolly and likes talking to himself. He wears a white hat with black cow spots.",
+    "traits": ["stubborn", "sarcastic", "contemptuous", "contrarian"],
+    "loves": ["fun games", "wearing his hat"]
+  },
+  {
+    "name": "Laa-Laa",
+    "slug": "laa-laa",
+    "image_url": "/images/profile/laa-laa.webp",
+    "description": "Laa-Laa is the third Teletubby played by Nikky Smedley (from 1997 - 2003, 2007, 2009) in the original series and Rebecca Hyland (from 2015 - present) in the new series. She is yellow and has a curly antenna on her head. Her favourite thing is a giant orange ball.",
+    "traits": ["very girly", "silly", "cute", "cheerful"],
+    "loves": ["playing ball", "singing", "dancing"]
+  },
+  {
+    "name": "Po",
+    "slug": "po",
+    "image_url": "/images/profile/po.webp",
+    "description": "Po is the fourth and youngest Teletubby. She lives in Teletubbyland with the other Teletubbies.",
+    "traits": ["clever", "silly", "loves attention", "timid", "smart"],
+    "loves": ["riding her scooter", "audience interaction"]
+  },
+  {
+    "name": "Tinky Winky",
+    "slug": "tinky-winky",
+    "image_url": "/images/profile/tinky-winky.webp",
+    "description": "Tinky Winky, (played by Dave Thompson (from 1997), and Simon Shelton (1997-2001, 2007, 2009), and voiced by Mark Heenehan (from 1997-2001), and in the original series and Jeremiah Krage (2015-present) in the new series) is the first Teletubby. He is the largest and oldest of the Teletubbies, being 10 feet tall.",
+    "traits": ["tallest", "oldest", "kind", "gentle"],
+    "loves": ["big hugs", "walking", "marching", "dancing", "falling over"]
+  },
+  {
+    "name": "Dipsy",
+    "slug": "dipsy",
+    "image_url": "/images/profile/dipsy.webp",
+    "description": "Dipsy is the second Teletubby with an antenna that refers to a dipstick because of his name. Dipsy's skin tone is slightly darker than the other Teletubbies, implying that he is black. He is jolly and likes talking to himself. He wears a white hat with black cow spots.",
+    "traits": ["stubborn", "sarcastic", "contemptuous", "contrarian"],
+    "loves": ["fun games", "wearing his hat"]
+  },
+  {
+    "name": "Laa-Laa",
+    "slug": "laa-laa",
+    "image_url": "/images/profile/laa-laa.webp",
+    "description": "Laa-Laa is the third Teletubby played by Nikky Smedley (from 1997 - 2003, 2007, 2009) in the original series and Rebecca Hyland (from 2015 - present) in the new series. She is yellow and has a curly antenna on her head. Her favourite thing is a giant orange ball.",
+    "traits": ["very girly", "silly", "cute", "cheerful"],
+    "loves": ["playing ball", "singing", "dancing"]
+  },
+  {
+    "name": "Po",
+    "slug": "po",
+    "image_url": "/images/profile/po.webp",
+    "description": "Po is the fourth and youngest Teletubby. She lives in Teletubbyland with the other Teletubbies.",
+    "traits": ["clever", "silly", "loves attention", "timid", "smart"],
+    "loves": ["riding her scooter", "audience interaction"]
+  },
+  {
+    "name": "Tinky Winky",
+    "slug": "tinky-winky",
+    "image_url": "/images/profile/tinky-winky.webp",
+    "description": "Tinky Winky, (played by Dave Thompson (from 1997), and Simon Shelton (1997-2001, 2007, 2009), and voiced by Mark Heenehan (from 1997-2001), and in the original series and Jeremiah Krage (2015-present) in the new series) is the first Teletubby. He is the largest and oldest of the Teletubbies, being 10 feet tall.",
+    "traits": ["tallest", "oldest", "kind", "gentle"],
+    "loves": ["big hugs", "walking", "marching", "dancing", "falling over"]
+  },
+  {
+    "name": "Dipsy",
+    "slug": "dipsy",
+    "image_url": "/images/profile/dipsy.webp",
+    "description": "Dipsy is the second Teletubby with an antenna that refers to a dipstick because of his name. Dipsy's skin tone is slightly darker than the other Teletubbies, implying that he is black. He is jolly and likes talking to himself. He wears a white hat with black cow spots.",
+    "traits": ["stubborn", "sarcastic", "contemptuous", "contrarian"],
+    "loves": ["fun games", "wearing his hat"]
+  },
+  {
+    "name": "Laa-Laa",
+    "slug": "laa-laa",
+    "image_url": "/images/profile/laa-laa.webp",
+    "description": "Laa-Laa is the third Teletubby played by Nikky Smedley (from 1997 - 2003, 2007, 2009) in the original series and Rebecca Hyland (from 2015 - present) in the new series. She is yellow and has a curly antenna on her head. Her favourite thing is a giant orange ball.",
+    "traits": ["very girly", "silly", "cute", "cheerful"],
+    "loves": ["playing ball", "singing", "dancing"]
+  },
+  {
+    "name": "Po",
+    "slug": "po",
+    "image_url": "/images/profile/po.webp",
+    "description": "Po is the fourth and youngest Teletubby. She lives in Teletubbyland with the other Teletubbies.",
+    "traits": ["clever", "silly", "loves attention", "timid", "smart"],
+    "loves": ["riding her scooter", "audience interaction"]
+  }
+]
