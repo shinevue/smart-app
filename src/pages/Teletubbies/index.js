@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Container, Grid, Paper, Button, Typography } from "@mui/material";
+import teletubbiesData from "../../Data/teletubbies.json";
 
 function Tele() {
   return (
