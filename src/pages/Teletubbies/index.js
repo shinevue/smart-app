@@ -4,16 +4,11 @@ import { Container, Typography, Box, Grid } from "@mui/material";
 import {} from "api";
 
 const Tele = () => {
- 
-
- 
-
-  useEffect(() => {
-
-  }, []);
+  useEffect(() => {}, []);
 
   return (
     <>
+      {" "}
       <Container>
         <Typography variant="h4">Teletubbies</Typography>
         <Grid container spacing={2}>
