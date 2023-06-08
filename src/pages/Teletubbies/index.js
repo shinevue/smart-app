@@ -7,7 +7,9 @@ import {
   Avatar,
   TextField,
   InputAdornment,
+  Paper,
 } from "@mui/material";
+import { purple, blue } from "@mui/material/colors";
 import teletubbiesData from "../../Data/teletubbies.json";
 import SearchIcon from "@mui/icons-material/Search";
 
@@ -57,6 +59,7 @@ const Tele = () => {
             sx={{
               border: "2px solid",
               borderColor: "primary.main",
+              color: "Blue",
             }}
             mt={4}
             mb={3}
@@ -137,24 +140,28 @@ const Tele = () => {
                     <Typography variant="body1" component="div" sx={{ px: 2 }}>
                       {teletubby.description}
                     </Typography>
-                    <div
-                      className="button-container"
-                      align="left"
-                      sx={{ my: 2 }}
-                    >
-                      <Button variant="outlined" color="primary" sx={{ mx: 2 }}>
-                        {teletubby.traits[0]}
-                      </Button>
-                      <Button variant="outlined" color="primary" sx={{ my: 2 }}>
-                        {teletubby.traits[1]}
-                      </Button>
-                      <Button variant="outlined" color="primary" sx={{ mx: 2 }}>
-                        {teletubby.traits[2]}
-                      </Button>
-                      <Button variant="outlined" color="primary">
-                        {teletubby.traits[3]}
-                      </Button>
-                    </div>
+                    <Grid container spacing={2} justifyContent="flex-start">
+                      <Grid item>
+                        <Paper variant="outlined" sx={{ p: 1 }}>
+                          {teletubby.traits[0]}
+                        </Paper>
+                      </Grid>
+                      <Grid item>
+                        <Paper variant="outlined" sx={{ p: 1 }}>
+                          {teletubby.traits[1]}
+                        </Paper>
+                      </Grid>
+                      <Grid item>
+                        <Paper variant="outlined" sx={{ p: 1 }}>
+                          {teletubby.traits[2]}
+                        </Paper>
+                      </Grid>
+                      <Grid item>
+                        <Paper variant="outlined" sx={{ p: 1 }}>
+                          {teletubby.traits[3]}
+                        </Paper>
+                      </Grid>
+                    </Grid>
                   </Grid>
                 </Grid>
               </>
@@ -173,24 +180,28 @@ const Tele = () => {
                     <Typography variant="body1" component="div" sx={{ px: 2 }}>
                       {teletubby.description}
                     </Typography>
-                    <div
-                      className="button-container"
-                      align="left"
-                      sx={{ my: 2 }}
-                    >
-                      <Button variant="outlined" color="primary" sx={{ mx: 2 }}>
-                        traits1
-                      </Button>
-                      <Button variant="outlined" color="primary" sx={{ my: 2 }}>
-                        traits2
-                      </Button>
-                      <Button variant="outlined" color="primary" sx={{ mx: 2 }}>
-                        traits3
-                      </Button>
-                      <Button variant="outlined" color="primary">
-                        traits4
-                      </Button>
-                    </div>
+                    <Grid container spacing={2} justifyContent="flex-start">
+                      <Grid item>
+                        <Paper variant="outlined" sx={{ p: 1 }}>
+                          {teletubby.traits[0]}
+                        </Paper>
+                      </Grid>
+                      <Grid item>
+                        <Paper variant="outlined" sx={{ p: 1 }}>
+                          {teletubby.traits[1]}
+                        </Paper>
+                      </Grid>
+                      <Grid item>
+                        <Paper variant="outlined" sx={{ p: 1 }}>
+                          {teletubby.traits[2]}
+                        </Paper>
+                      </Grid>
+                      <Grid item>
+                        <Paper variant="outlined" sx={{ p: 1 }}>
+                          {teletubby.traits[3]}
+                        </Paper>
+                      </Grid>
+                    </Grid>
                   </Grid>
                 </Grid>
                 <Grid item xs={2}>
