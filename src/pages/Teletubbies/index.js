@@ -141,7 +141,7 @@ const Tele = () => {
                     </Typography>
                     <Grid container spacing={2} justifyContent="flex-start">
                       <Grid item>
-                        <Paper variant="outlined" sx={{ p: 1 }}>
+                        <Paper variant="outlined" sx={{ p: 1, mx: 2 }}>
                           {teletubby.traits[0]}
                         </Paper>
                       </Grid>
