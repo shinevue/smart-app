@@ -115,7 +115,7 @@ const Tele = () => {
                 <Grid item xs={12} md={6} lg={2}>
                   <div className="img-container">
                     <img
-                      src="1.jpg"
+                      src={teletubby.image_url}
                       alt={teletubby.image_url}
                       style={{
                         width: "100%",
