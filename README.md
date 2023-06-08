@@ -16,7 +16,7 @@ npm start
 We have endpoints to return paginated NFT listings:
 
 ```
-https://api-mainnet.magiceden.io/idxv2/getListedNftsByCollectionSymbol?collectionSymbol=oka y_bears&limit=20&offset=0
+https://api-mainnet.magiceden.io/idxv2/getListedNftsByCollectionSymbol?collectionSymbol=okay_bears&limit=20&offset=0
 ```
 
 Build a page with the following requirements:
