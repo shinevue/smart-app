@@ -9,7 +9,6 @@ import {
   InputAdornment,
   Paper,
 } from "@mui/material";
-import { purple, blue } from "@mui/material/colors";
 import teletubbiesData from "../../Data/teletubbies.json";
 import SearchIcon from "@mui/icons-material/Search";
 
