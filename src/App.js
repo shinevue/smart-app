@@ -3,7 +3,6 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Layout from "pages/Layout";
 import Home from "pages/Home";
 import NoPage from "pages/NoPage";
-import NFTs from "pages/NFTs";
 import "./App.css";
 
 function App() {
@@ -13,7 +12,6 @@ function App() {
         <Routes>
           <Route path="/" element={<Layout />}>
             <Route index element={<Home />} />
-            <Route path="/nfts" element={<NFTs />} />
             <Route path="*" element={<NoPage />} />
           </Route>
         </Routes>
