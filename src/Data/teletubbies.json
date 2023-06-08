@@ -10,7 +10,7 @@
   {
     "name": "Dipsy",
     "slug": "dipsy",
-    "image_url": "../images/profile/dipsy.webp",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIBnIUpkAweaKFAccdQZ9_aIynnyg_FvqTLw&usqp=CAU",
     "description": "Dipsy is the second Teletubby with an antenna that refers to a dipstick because of his name. Dipsy's skin tone is slightly darker than the other Teletubbies, implying that he is black. He is jolly and likes talking to himself. He wears a white hat with black cow spots.",
     "traits": ["stubborn", "sarcastic", "contemptuous", "contrarian"],
     "loves": ["fun games", "wearing his hat"]
